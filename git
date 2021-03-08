@@ -31,3 +31,7 @@ git branch nom
 
 git checkout nom
 
+
+git remote add origin https://github.com/teodoowebs/livelia
+
+git push -u origin master
