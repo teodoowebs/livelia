@@ -1,0 +1,26 @@
+git checkout -b develop
+
+git branch
+
+git remote
+
+git init
+
+git status
+
+git add .
+
+git config --global user.email "teo@doowebs.com"
+
+
+git commit -m "modificación en readme"
+
+git branch -add
+
+git merge -m "merge branch develop" origin/develop
+
+
+git push origin develop
+
+git push origin master
+

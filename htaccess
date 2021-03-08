@@ -1,0 +1,11 @@
+AuthType Basic 
+AuthName "doowebs" 
+AuthUserFile /var/www/vhosts/dwebs.dev/.htpasswd 
+require valid-user
+
+
+
+
+.htpasswd
+
+doowebs:{SHA}tZRa/IgayQZoyLCtIuYPTTo2qN8=
